@@ -1,0 +1,20 @@
+#declaracao {
+  background-color: rgba(0, 0, 0, 0.7); /* Fundo semi-transparente */
+  color: #fff;
+  padding: 40px;
+  border-radius: 10px;
+  margin: 20px auto;
+  max-width: 800px;
+  font-family: 'Sacramento', cursive;
+}
+
+#declaracao h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+#declaracao p {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
