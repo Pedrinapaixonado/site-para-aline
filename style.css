@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    color: purple;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-shadow: 0px 0px 10px white;
+}
